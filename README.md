@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node.js, Vue.js, GSAP animations, MERN stack, and building production-ready full-stack applications.**
 
-- 📫 How to reach me **jayaggarwal9288@gmail.com**
+- 📫 How to reach me **jayaggarwal99288@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RhCE_nFG1W8ceNzvzWhz7GeubQNW79wi/view?usp=drive_link](https://drive.google.com/file/d/1RhCE_nFG1W8ceNzvzWhz7GeubQNW79wi/view?usp=drive_link)
 
