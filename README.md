@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **jayaggarwal99288@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RhCE_nFG1W8ceNzvzWhz7GeubQNW79wi/view?usp=drive_link](https://drive.google.com/file/d/1RhCE_nFG1W8ceNzvzWhz7GeubQNW79wi/view?usp=drive_link)
 
 - ⚡ Fun fact **I can build scalable systems faster than I finish my coffee ☕.**
 
