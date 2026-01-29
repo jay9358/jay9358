@@ -145,7 +145,7 @@
     <td width="50%">
       <h3 align="center">Future-Self AI Platform</h3>
       <p align="center">
-        <a href="https://future-self-ai.vercel.app/" target="_blank">
+        <a href="https://future-self-gen-ai.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
         <a href="https://github.com/jay9358/future-self-ai" target="_blank">
