@@ -145,7 +145,7 @@
     <td width="50%">
       <h3 align="center">Future-Self AI Platform</h3>
       <p align="center">
-        <a href="https://future-self-gen-ai.vercel.app/" target="_blank">
+        <a href="https://future-self-ai.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
         <a href="https://github.com/jay9358/future-self-ai" target="_blank">
@@ -206,9 +206,9 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="tel:+919358355747" target="_blank">
-        <img src="https://img.icons8.com/color/96/phone.png" height="60" alt="Phone"/><br/>
-        <sub><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/></sub>
+      <a href="https://wa.me/919358355747" target="_blank">
+        <img src="https://img.icons8.com/color/96/whatsapp.png" height="60" alt="WhatsApp"/><br/>
+        <sub><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></sub>
       </a>
     </td>
   </tr>
